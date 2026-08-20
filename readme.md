@@ -18,6 +18,7 @@
 - Iniciei, primeiramente, com um teste prático para ter a plenitude que o Gemini gravou o conteúdo:
   
 1 - Vamos começar com um teste teórico sobre a temática lecionada com os links. Quando surgiu esse tema, porque e qual a importância histórica e prática dele até os dias de hoje? Exemplifique, se necessário.
+
 *Resultado*
 ```
 O tema central abordado nos links é a **linguagem de programação JavaScript**, abrangendo desde seus fundamentos históricos até sua evolução técnica e prática, incluindo o ecossistema de frameworks e o desenvolvimento full-stack atual.
@@ -51,6 +52,7 @@ Hoje, o JavaScript é a linguagem de programação mais popular do mundo e é fu
 ```
 
 2 - Desejo que realize um resumo completo das principais funções de códigos no JavaScript. Resuma e explique tudo o que um programador sênior deverá saber para dominar os principais comandos e códigos da linguagem.
+
 *Resposta:*
 ``` 
 Para dominar o JavaScript em nível sênior, o profissional deve compreender não apenas a sintaxe da linguagem, mas também os mecanismos de tempo de execução (runtime), as estruturas de concorrência e a arquitetura do ecossistema moderno.
@@ -124,12 +126,15 @@ Um profissional sênior precisa liderar a escolha de ferramentas e entender as p
         JSON.parse Melhorado: Permite manter e acessar a string de origem para converter números gigantes (BigInts) sem perda de dados na desserialização.
         Import Defer: Permite adiar a avaliação de um módulo importado até o exato momento em que uma de suas exportações seja efetivamente utilizada, melhorando consideravelmente o tempo de carregamento em grandes bases de código.
 ```
-*Para um teste de utilidade universitária, coloquei mais fontes através do recurso de pesquisa
--> Prompt Utilizado: "Cursificações úteis de diferentes níveis de javascript  com certificação e projetos práticos".
--> Após isso, priorizei um prompt mais robusto, focado em específicidade acadêmica. 
+* Para um teste de utilidade universitária, coloquei mais fontes através do recurso de pesquisa
+  
+> Prompt Utilizado: "Cursificações úteis de diferentes níveis de javascript  com certificação e projetos práticos".
+
+> Após isso, priorizei um prompt mais robusto, focado em específicidade acadêmica. 
 
 
 3 - Agora, utilizando todo conhecimento fornecido na linguagem e levando em conta tudo o que deve ser aprendido para se tornar um desenvolvedor sênior em JavaScript, utilize-se de formações, certificações e projetos práticos e monte uma "trilha" que possua linearmente o desenvolvimento dessas competências e que sejam soma ao currículo portável e de repositórios. Nessa trilha, pode incluir dicas, projetos práticos que considere úteis e diferentes cursos. Priorize sempre o ensino gratuito e autodidata.
+
 *Resultado:*
 ```
 Esta trilha de desenvolvimento foi projetada de forma linear para levar você do absoluto zero até as competências de engenharia de software exigidas de um desenvolvedor sênior em JavaScript. O foco é totalmente autodidata e gratuito, priorizando plataformas que emitem certificados verificáveis e sugerindo projetos práticos para alimentar o seu GitHub e montar um portfólio robusto.
