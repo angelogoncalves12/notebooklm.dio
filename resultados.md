@@ -20,4 +20,4 @@ adaptação ao markdown.
 ## Link Acessível:
 - https://notebook.google.com/notebook/d28ad84b-5163-4f66-8498-11074d652c51
 
-*Caso haja dúvidas ou interesses pelo modelo, fico à disposição para auxiliar (@correiasvz)*
+*Caso haja dúvidas ou interesses pelo modelo, fico à disposição para auxiliar (@clangsdev)*
